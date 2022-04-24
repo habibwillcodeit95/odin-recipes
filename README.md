@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes - I created a basic recipe website with links and images, different types of lists, paragraphs, headings, bold text, i will utilize all the syntax i have learned in the HTML foundations portion of TOP 
